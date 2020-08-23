@@ -23,7 +23,7 @@ Configure your Gatling instance to use graphite protocol to send data to InfluxD
 }
 ```
 <h4>Sample dashboard view:</h4>
-
+https://github.com/akadzik/gatling-grafana-docker/blob/master/screenshots/grafana_sample_view.png
 
 <h4>Project inspired by:</h4>
 
